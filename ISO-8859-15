@@ -1,0 +1,5 @@
+-Xms32m
+-Xmx512m
+-XX:MaxPermSize=150m
+-ea
+-цед
